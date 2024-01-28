@@ -1,1 +1,1 @@
-# [Trellis Coding Quantization](https://vicente-gonzalez-ruiz.github.io/trellis_coding_quantization/).
+# Some notes about [Trellis Coding Quantization](https://vicente-gonzalez-ruiz.github.io/trellis_coding_quantization/)
